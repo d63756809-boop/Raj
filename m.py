@@ -326,7 +326,7 @@ def handle_attack(message):
         else:
             response = "✅ Usage :- /attack <target> <port> <time>"  # Updated command syntax
     else:
-        response = ("🚫 Unauthorized Access! 🚫\n\nOops! It seems like you don't have permission to use the /attack command.                                                                          DM TO BUY ACCESS:- @kingthenos_bhai")
+        response = ("🚫 Unauthorized Access! 🚫\n\nOops! It seems like you don't have permission to use the /attack command.                                                                          DM TO BUY ACCESS:- @raj14754")
 
     bot.reply_to(message, response)
 
